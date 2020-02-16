@@ -4,7 +4,8 @@ Node.js + React fullstack Project with Passport authentication
 
 ## Docker mongoDB commands
 
-- ```docker run -d -p 27017:27017 --name auth-kcstr-mongo \
+- ```
+   docker run -d -p 27017:27017 --name auth-kcstr-mongo \
    mongo
   ```
 
